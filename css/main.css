@@ -1,5 +1,6 @@
 nav{
 	margin-top: 10px;
+	margin-left: 290px;
  	 
 }
 a {
@@ -8,6 +9,7 @@ a {
   color:#C9C9C9 ;
   font-size: 18px;
   font-weight
+
  }
 .button1{
 	height:30px;
@@ -25,7 +27,7 @@ a {
 	margin: 5%;
 	border-radius: 20%;
 	color: #FFFFFF;
-	margin: 60px 450px;
+	margin: 60px 540px;
 	
 }
 
@@ -34,7 +36,7 @@ a {
 }
 
 .tama{
-	width: 520px;
+	width: 620px;
 	height: 350px;
 
 }
@@ -44,8 +46,8 @@ a {
 	margin-left: 10px;
 }
 .moverpa{
-	margin-left: 100px;
-	margin-top: -10px;
+	margin-left: 300px;
+	margin-top: -20px;
 }
 header{
 	margin: 30px 40px;
@@ -55,6 +57,8 @@ section{
 
 }
 footer{
+	background-color: black;
+	height: 500px;
 	margin: 30px 40px;
 }
 .letraschiquitas{
@@ -62,5 +66,10 @@ footer{
 }
 .moverlogo{
 	margin-left: 40px;
+}
+.figuras{
+	width: 2%;
+	left: 500px;
+
 }
 
