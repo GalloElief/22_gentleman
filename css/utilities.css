@@ -16,6 +16,12 @@ strong {
 .pd-5 {
 	padding: 5%;
 }
+.pd-9{
+	padding: 6% 3%;
+}
+.pd-10{
+	margin-left: 10%;
+}
 .pd-10 {
 	padding: 10%;
 }
@@ -25,6 +31,9 @@ strong {
 .pb-5{
 	padding-bottom: 5%;
 }
+.pb-7{
+	padding-bottom: 2%;
+}
 .pl-5{
 	padding-left: 5%;
 }
@@ -33,6 +42,12 @@ strong {
 }
 .mg-0{
 	margin: 0;
+}
+.mg-1{
+	margin-left: 30px;
+}
+.mg-t{
+	margin-top: 20px;
 }
 .w-100{
 	width: 100%;
